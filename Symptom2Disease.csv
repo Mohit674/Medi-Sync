@@ -1,0 +1,1201 @@
+label,Symptom_1,Symptom_2,Symptom_3
+Sinusitis,sore_throat,headache,nasal_congestion
+Asthma,chest_tightness,cough,wheezing
+Appendicitis,nausea,vomiting,abdominal_pain
+Flu,cough,fatigue,fever
+Typhoid,fatigue,rash,loss_of_appetite
+Sinusitis,headache,runny_nose,sore_throat
+Typhoid,rash,abdominal_pain,loss_of_appetite
+Malaria,sweating,nausea,headache
+Pneumonia,cough,sweating,chills
+Hepatitis,pale_stool,jaundice,dark_urine
+Flu,body_aches,fatigue,chills
+Diabetes,blurred_vision,frequent_urination,increased_thirst
+Asthma,cough,wheezing,chest_tightness
+Gastroenteritis,abdominal_pain,vomiting,fever
+Anemia,fatigue,anemia_symptoms,dizziness
+Pneumonia,fatigue,chest_pain,chills
+Anemia,anemia_symptoms,pale_stool,fatigue
+Allergies,swelling,runny_nose,itching
+Tuberculosis,fatigue,weight_loss,fever
+Kidney Stones,side_pain,burning_urination,blood_in_urine
+Flu,chills,body_aches,sore_throat
+Tuberculosis,fever,coughing_blood,weight_loss
+Pneumonia,shortness_of_breath,chills,sweating
+Asthma,shortness_of_breath,cough,wheezing
+Diabetes,blurred_vision,frequent_urination,fatigue
+Allergies,swelling,itching,hives
+Pneumonia,fever,sweating,chills
+Flu,sore_throat,chills,fever
+Flu,body_aches,fever,headache
+Migraine,nausea,sensitivity_to_light,vision_changes
+Common Cold,runny_nose,cough,sore_throat
+Bronchitis,fever,sore_throat,wheezing
+Malaria,sweating,chills,headache
+Appendicitis,vomiting,fever,nausea
+Pneumonia,sweating,cough,fatigue
+Strep Throat,sore_throat,fever,rash
+Bronchitis,wheezing,fever,cough
+Tuberculosis,night_sweats,weight_loss,fatigue
+Hypertension,high_blood_pressure,headache,dizziness
+Appendicitis,abdominal_pain,fever,nausea
+Tonsillitis,headache,fever,swollen_lymph_nodes
+Typhoid,loss_of_appetite,fever,abdominal_pain
+Common Cold,fever,sneezing,nasal_congestion
+Malaria,headache,chills,fever
+Dengue,fever,headache,rash
+Malaria,nausea,headache,sweating
+Typhoid,fever,abdominal_pain,rash
+Arthritis,joint_pain,muscle_pain,fatigue
+Tuberculosis,coughing_blood,night_sweats,fatigue
+Arthritis,joint_pain,muscle_pain,fatigue
+Common Cold,fever,sneezing,sore_throat
+Allergies,itching,runny_nose,sneezing
+Sinusitis,headache,sore_throat,runny_nose
+Diabetes,frequent_urination,blurred_vision,increased_thirst
+Appendicitis,fever,vomiting,nausea
+Asthma,chest_tightness,cough,wheezing
+Hepatitis,fatigue,abdominal_pain,jaundice
+Pneumonia,chest_pain,shortness_of_breath,fatigue
+Gastroenteritis,vomiting,fever,abdominal_pain
+Strep Throat,rash,fever,swollen_lymph_nodes
+Anemia,dizziness,fatigue,pale_stool
+Typhoid,fever,loss_of_appetite,rash
+Urinary Tract Infection,blood_in_urine,abdominal_pain,burning_urination
+Anemia,anemia_symptoms,fatigue,pale_stool
+Migraine,nausea,vision_changes,sensitivity_to_light
+Arthritis,muscle_pain,joint_pain,fatigue
+Arthritis,joint_pain,fatigue,swelling
+Gastroenteritis,nausea,vomiting,abdominal_pain
+Tuberculosis,night_sweats,fever,coughing_blood
+Tuberculosis,night_sweats,fatigue,fever
+Asthma,cough,shortness_of_breath,chest_tightness
+Hepatitis,fatigue,dark_urine,pale_stool
+Common Cold,runny_nose,fever,nasal_congestion
+Gallstones,abdominal_pain,nausea,jaundice
+Gallstones,vomiting,jaundice,nausea
+Sinusitis,runny_nose,sore_throat,ear_pain
+Typhoid,abdominal_pain,rash,loss_of_appetite
+Hypertension,high_blood_pressure,dizziness,headache
+Sinusitis,runny_nose,ear_pain,headache
+Malaria,fever,chills,nausea
+Tuberculosis,fever,fatigue,coughing_blood
+Kidney Stones,blood_in_urine,burning_urination,side_pain
+Arthritis,swelling,joint_pain,fatigue
+Diabetes,increased_thirst,blurred_vision,frequent_urination
+Tuberculosis,weight_loss,fever,coughing_blood
+Appendicitis,abdominal_pain,nausea,fever
+Common Cold,sneezing,sore_throat,fever
+Pneumonia,sweating,cough,fever
+Gallstones,nausea,jaundice,vomiting
+Common Cold,fever,nasal_congestion,runny_nose
+Gallstones,nausea,jaundice,vomiting
+Gastroenteritis,vomiting,nausea,diarrhea
+Kidney Stones,side_pain,nausea,burning_urination
+Migraine,vision_changes,sensitivity_to_sound,sensitivity_to_light
+Tonsillitis,swollen_lymph_nodes,fever,sore_throat
+Sinusitis,sore_throat,nasal_congestion,runny_nose
+Hepatitis,pale_stool,dark_urine,abdominal_pain
+Urinary Tract Infection,frequent_urination,abdominal_pain,blood_in_urine
+Common Cold,cough,fever,nasal_congestion
+Urinary Tract Infection,burning_urination,frequent_urination,abdominal_pain
+Common Cold,nasal_congestion,fever,cough
+Sinusitis,headache,ear_pain,sore_throat
+Strep Throat,sore_throat,rash,fever
+Common Cold,runny_nose,sneezing,fever
+Urinary Tract Infection,blood_in_urine,frequent_urination,burning_urination
+Diabetes,increased_thirst,fatigue,frequent_urination
+Sinusitis,headache,runny_nose,sore_throat
+Typhoid,fatigue,rash,fever
+Gallstones,abdominal_pain,nausea,vomiting
+Kidney Stones,blood_in_urine,nausea,burning_urination
+Dengue,joint_pain,fever,muscle_pain
+Tonsillitis,swollen_lymph_nodes,fever,sore_throat
+Anemia,dizziness,pale_stool,fatigue
+Tonsillitis,fever,headache,sore_throat
+Kidney Stones,burning_urination,nausea,blood_in_urine
+Migraine,nausea,sensitivity_to_sound,vision_changes
+Gallstones,vomiting,nausea,abdominal_pain
+Hepatitis,jaundice,fatigue,abdominal_pain
+Kidney Stones,burning_urination,blood_in_urine,nausea
+Typhoid,rash,fatigue,loss_of_appetite
+Kidney Stones,blood_in_urine,side_pain,burning_urination
+Malaria,nausea,sweating,headache
+Asthma,wheezing,chest_tightness,cough
+Tuberculosis,weight_loss,fatigue,coughing_blood
+Dengue,fever,rash,joint_pain
+Sinusitis,sore_throat,runny_nose,headache
+Allergies,runny_nose,swelling,hives
+Gastroenteritis,nausea,diarrhea,vomiting
+Anemia,pale_stool,dizziness,fatigue
+Asthma,shortness_of_breath,wheezing,cough
+Gastroenteritis,abdominal_pain,nausea,fever
+Gallstones,jaundice,abdominal_pain,nausea
+Strep Throat,fever,sore_throat,swollen_lymph_nodes
+Arthritis,swelling,muscle_pain,joint_pain
+Gastroenteritis,vomiting,diarrhea,nausea
+Migraine,sensitivity_to_sound,nausea,headache
+Urinary Tract Infection,burning_urination,abdominal_pain,frequent_urination
+Appendicitis,vomiting,abdominal_pain,fever
+Appendicitis,vomiting,abdominal_pain,fever
+Flu,chills,fatigue,body_aches
+Gastroenteritis,vomiting,nausea,abdominal_pain
+Hepatitis,fatigue,abdominal_pain,dark_urine
+Dengue,headache,fever,muscle_pain
+Common Cold,sneezing,runny_nose,fever
+Allergies,runny_nose,sneezing,hives
+Arthritis,fatigue,joint_pain,muscle_pain
+Gastroenteritis,nausea,abdominal_pain,fever
+Kidney Stones,nausea,blood_in_urine,side_pain
+Dengue,chills,joint_pain,rash
+Anemia,pale_stool,fatigue,anemia_symptoms
+Typhoid,rash,fatigue,loss_of_appetite
+Kidney Stones,nausea,blood_in_urine,side_pain
+Allergies,itching,runny_nose,hives
+Anemia,anemia_symptoms,pale_stool,dizziness
+Flu,cough,body_aches,headache
+Flu,fever,chills,sore_throat
+Sinusitis,runny_nose,headache,ear_pain
+Sinusitis,ear_pain,sore_throat,nasal_congestion
+Flu,fever,headache,chills
+Hypertension,high_blood_pressure,blurred_vision,dizziness
+Pneumonia,shortness_of_breath,fatigue,chills
+Gallstones,vomiting,abdominal_pain,jaundice
+Bronchitis,wheezing,fatigue,chest_pain
+Gallstones,nausea,vomiting,abdominal_pain
+Flu,fatigue,sore_throat,fever
+Bronchitis,wheezing,fatigue,sore_throat
+Appendicitis,fever,abdominal_pain,vomiting
+Bronchitis,chest_pain,cough,fever
+Bronchitis,fatigue,cough,fever
+Gastroenteritis,abdominal_pain,nausea,diarrhea
+Hypertension,dizziness,blurred_vision,headache
+Urinary Tract Infection,blood_in_urine,burning_urination,frequent_urination
+Flu,sore_throat,headache,chills
+Strep Throat,sore_throat,rash,fever
+Hypertension,headache,high_blood_pressure,blurred_vision
+Flu,cough,body_aches,chills
+Tuberculosis,night_sweats,fatigue,coughing_blood
+Hypertension,headache,high_blood_pressure,dizziness
+Diabetes,blurred_vision,fatigue,frequent_urination
+Malaria,headache,fever,sweating
+Arthritis,swelling,joint_pain,muscle_pain
+Tuberculosis,fatigue,coughing_blood,weight_loss
+Kidney Stones,burning_urination,side_pain,nausea
+Dengue,headache,muscle_pain,chills
+Asthma,wheezing,chest_tightness,shortness_of_breath
+Hepatitis,fatigue,abdominal_pain,pale_stool
+Tonsillitis,sore_throat,fever,swollen_lymph_nodes
+Strep Throat,fever,swollen_lymph_nodes,rash
+Gallstones,vomiting,nausea,abdominal_pain
+Bronchitis,wheezing,cough,fatigue
+Tuberculosis,night_sweats,fever,fatigue
+Bronchitis,wheezing,cough,fever
+Gastroenteritis,diarrhea,fever,abdominal_pain
+Bronchitis,chest_pain,fever,sore_throat
+Gastroenteritis,fever,abdominal_pain,diarrhea
+Flu,chills,sore_throat,body_aches
+Anemia,anemia_symptoms,fatigue,pale_stool
+Common Cold,cough,sore_throat,fever
+Malaria,nausea,headache,fever
+Sinusitis,runny_nose,headache,sore_throat
+Allergies,swelling,itching,runny_nose
+Diabetes,frequent_urination,fatigue,blurred_vision
+Hypertension,high_blood_pressure,dizziness,headache
+Flu,chills,sore_throat,headache
+Allergies,swelling,hives,runny_nose
+Flu,sore_throat,fever,body_aches
+Gastroenteritis,fever,abdominal_pain,diarrhea
+Arthritis,muscle_pain,joint_pain,fatigue
+Tuberculosis,weight_loss,coughing_blood,night_sweats
+Arthritis,joint_pain,fatigue,muscle_pain
+Typhoid,loss_of_appetite,abdominal_pain,fatigue
+Diabetes,increased_thirst,fatigue,frequent_urination
+Urinary Tract Infection,burning_urination,abdominal_pain,blood_in_urine
+Anemia,anemia_symptoms,pale_stool,fatigue
+Tuberculosis,fever,fatigue,weight_loss
+Allergies,itching,sneezing,runny_nose
+Kidney Stones,nausea,burning_urination,side_pain
+Bronchitis,chest_pain,fever,sore_throat
+Kidney Stones,burning_urination,nausea,blood_in_urine
+Pneumonia,fatigue,sweating,shortness_of_breath
+Malaria,sweating,headache,nausea
+Diabetes,fatigue,frequent_urination,blurred_vision
+Dengue,muscle_pain,rash,fever
+Flu,sore_throat,chills,body_aches
+Asthma,wheezing,shortness_of_breath,chest_tightness
+Strep Throat,fever,sore_throat,swollen_lymph_nodes
+Pneumonia,cough,fatigue,sweating
+Tonsillitis,swollen_lymph_nodes,headache,sore_throat
+Tonsillitis,swollen_lymph_nodes,fever,sore_throat
+Tonsillitis,swollen_lymph_nodes,headache,sore_throat
+Urinary Tract Infection,abdominal_pain,blood_in_urine,burning_urination
+Strep Throat,fever,sore_throat,rash
+Malaria,headache,fever,nausea
+Asthma,chest_tightness,wheezing,shortness_of_breath
+Strep Throat,sore_throat,fever,rash
+Pneumonia,fever,cough,chest_pain
+Malaria,sweating,headache,chills
+Hepatitis,pale_stool,fatigue,dark_urine
+Tonsillitis,fever,headache,swollen_lymph_nodes
+Diabetes,frequent_urination,fatigue,increased_thirst
+Allergies,swelling,runny_nose,itching
+Migraine,sensitivity_to_light,vision_changes,nausea
+Sinusitis,headache,ear_pain,sore_throat
+Hypertension,high_blood_pressure,headache,blurred_vision
+Urinary Tract Infection,blood_in_urine,abdominal_pain,frequent_urination
+Gastroenteritis,nausea,abdominal_pain,fever
+Gallstones,jaundice,vomiting,abdominal_pain
+Strep Throat,swollen_lymph_nodes,fever,sore_throat
+Pneumonia,chest_pain,shortness_of_breath,chills
+Anemia,anemia_symptoms,pale_stool,dizziness
+Allergies,itching,runny_nose,sneezing
+Malaria,sweating,fever,chills
+Dengue,headache,fever,joint_pain
+Gallstones,abdominal_pain,vomiting,jaundice
+Gastroenteritis,fever,diarrhea,nausea
+Diabetes,increased_thirst,fatigue,blurred_vision
+Hepatitis,jaundice,pale_stool,dark_urine
+Malaria,nausea,fever,sweating
+Malaria,headache,fever,chills
+Tonsillitis,sore_throat,swollen_lymph_nodes,headache
+Kidney Stones,burning_urination,blood_in_urine,side_pain
+Flu,sore_throat,headache,cough
+Gallstones,abdominal_pain,nausea,jaundice
+Diabetes,increased_thirst,blurred_vision,frequent_urination
+Anemia,dizziness,anemia_symptoms,fatigue
+Hypertension,headache,high_blood_pressure,blurred_vision
+Pneumonia,fever,chills,cough
+Tuberculosis,fatigue,weight_loss,coughing_blood
+Strep Throat,swollen_lymph_nodes,fever,sore_throat
+Arthritis,joint_pain,fatigue,muscle_pain
+Sinusitis,runny_nose,ear_pain,sore_throat
+Allergies,hives,sneezing,runny_nose
+Tonsillitis,swollen_lymph_nodes,headache,sore_throat
+Diabetes,increased_thirst,fatigue,frequent_urination
+Sinusitis,sore_throat,runny_nose,ear_pain
+Hepatitis,fatigue,dark_urine,jaundice
+Dengue,rash,fever,joint_pain
+Pneumonia,chills,sweating,fatigue
+Hypertension,blurred_vision,dizziness,headache
+Malaria,headache,fever,sweating
+Dengue,chills,muscle_pain,rash
+Strep Throat,rash,swollen_lymph_nodes,fever
+Common Cold,sneezing,runny_nose,cough
+Tonsillitis,sore_throat,swollen_lymph_nodes,headache
+Common Cold,cough,fever,nasal_congestion
+Anemia,pale_stool,fatigue,dizziness
+Appendicitis,nausea,vomiting,abdominal_pain
+Allergies,hives,runny_nose,swelling
+Tonsillitis,fever,swollen_lymph_nodes,sore_throat
+Arthritis,muscle_pain,fatigue,joint_pain
+Pneumonia,sweating,cough,fatigue
+Pneumonia,shortness_of_breath,fever,cough
+Sinusitis,sore_throat,ear_pain,runny_nose
+Tuberculosis,night_sweats,fatigue,fever
+Hepatitis,jaundice,abdominal_pain,dark_urine
+Flu,fever,chills,sore_throat
+Appendicitis,fever,abdominal_pain,nausea
+Gastroenteritis,fever,vomiting,nausea
+Typhoid,rash,loss_of_appetite,abdominal_pain
+Hepatitis,dark_urine,fatigue,pale_stool
+Asthma,shortness_of_breath,wheezing,chest_tightness
+Hepatitis,jaundice,dark_urine,abdominal_pain
+Tonsillitis,sore_throat,swollen_lymph_nodes,headache
+Migraine,vision_changes,sensitivity_to_sound,nausea
+Migraine,sensitivity_to_light,headache,sensitivity_to_sound
+Hypertension,headache,blurred_vision,high_blood_pressure
+Allergies,runny_nose,hives,sneezing
+Dengue,fever,chills,rash
+Hypertension,high_blood_pressure,blurred_vision,dizziness
+Hepatitis,fatigue,abdominal_pain,jaundice
+Dengue,chills,headache,joint_pain
+Hepatitis,pale_stool,jaundice,abdominal_pain
+Gastroenteritis,nausea,abdominal_pain,vomiting
+Pneumonia,fatigue,sweating,chest_pain
+Gallstones,jaundice,abdominal_pain,vomiting
+Migraine,sensitivity_to_light,headache,sensitivity_to_sound
+Typhoid,fever,rash,abdominal_pain
+Gastroenteritis,nausea,fever,vomiting
+Typhoid,fatigue,rash,abdominal_pain
+Tonsillitis,swollen_lymph_nodes,fever,sore_throat
+Arthritis,swelling,joint_pain,muscle_pain
+Urinary Tract Infection,abdominal_pain,burning_urination,frequent_urination
+Asthma,cough,shortness_of_breath,chest_tightness
+Gallstones,vomiting,nausea,jaundice
+Migraine,nausea,vision_changes,sensitivity_to_light
+Sinusitis,runny_nose,nasal_congestion,sore_throat
+Flu,body_aches,chills,sore_throat
+Tuberculosis,weight_loss,fatigue,night_sweats
+Allergies,swelling,runny_nose,hives
+Asthma,cough,wheezing,shortness_of_breath
+Malaria,sweating,chills,headache
+Kidney Stones,burning_urination,side_pain,nausea
+Hepatitis,dark_urine,jaundice,fatigue
+Sinusitis,nasal_congestion,sore_throat,ear_pain
+Kidney Stones,side_pain,nausea,burning_urination
+Gastroenteritis,abdominal_pain,nausea,diarrhea
+Strep Throat,sore_throat,rash,fever
+Gastroenteritis,fever,diarrhea,vomiting
+Arthritis,fatigue,swelling,muscle_pain
+Gastroenteritis,diarrhea,nausea,fever
+Typhoid,loss_of_appetite,fatigue,abdominal_pain
+Tonsillitis,swollen_lymph_nodes,headache,sore_throat
+Hepatitis,dark_urine,fatigue,jaundice
+Asthma,wheezing,chest_tightness,cough
+Common Cold,cough,nasal_congestion,runny_nose
+Appendicitis,vomiting,nausea,abdominal_pain
+Common Cold,sore_throat,sneezing,nasal_congestion
+Malaria,sweating,headache,nausea
+Hypertension,headache,high_blood_pressure,blurred_vision
+Bronchitis,chest_pain,cough,fever
+Bronchitis,chest_pain,fever,cough
+Anemia,dizziness,anemia_symptoms,fatigue
+Arthritis,fatigue,muscle_pain,joint_pain
+Kidney Stones,nausea,burning_urination,blood_in_urine
+Tonsillitis,fever,headache,sore_throat
+Common Cold,nasal_congestion,runny_nose,sneezing
+Arthritis,muscle_pain,joint_pain,swelling
+Sinusitis,sore_throat,nasal_congestion,ear_pain
+Anemia,dizziness,anemia_symptoms,fatigue
+Malaria,nausea,sweating,chills
+Gallstones,jaundice,abdominal_pain,nausea
+Hepatitis,pale_stool,fatigue,jaundice
+Kidney Stones,nausea,blood_in_urine,burning_urination
+Asthma,wheezing,chest_tightness,shortness_of_breath
+Common Cold,nasal_congestion,sneezing,cough
+Asthma,wheezing,chest_tightness,cough
+Asthma,wheezing,cough,chest_tightness
+Gastroenteritis,vomiting,fever,abdominal_pain
+Flu,sore_throat,body_aches,fever
+Arthritis,joint_pain,fatigue,swelling
+Asthma,chest_tightness,wheezing,cough
+Kidney Stones,blood_in_urine,nausea,burning_urination
+Tuberculosis,coughing_blood,fever,weight_loss
+Gastroenteritis,fever,diarrhea,vomiting
+Gallstones,vomiting,abdominal_pain,nausea
+Allergies,swelling,runny_nose,itching
+Diabetes,blurred_vision,fatigue,frequent_urination
+Kidney Stones,nausea,side_pain,burning_urination
+Appendicitis,vomiting,fever,nausea
+Kidney Stones,blood_in_urine,side_pain,nausea
+Allergies,swelling,hives,sneezing
+Appendicitis,abdominal_pain,nausea,vomiting
+Flu,cough,fatigue,sore_throat
+Urinary Tract Infection,abdominal_pain,blood_in_urine,frequent_urination
+Asthma,chest_tightness,wheezing,shortness_of_breath
+Anemia,anemia_symptoms,dizziness,pale_stool
+Diabetes,fatigue,frequent_urination,blurred_vision
+Tuberculosis,fever,night_sweats,coughing_blood
+Hepatitis,jaundice,pale_stool,dark_urine
+Sinusitis,sore_throat,runny_nose,headache
+Asthma,cough,chest_tightness,shortness_of_breath
+Appendicitis,abdominal_pain,vomiting,fever
+Anemia,anemia_symptoms,fatigue,pale_stool
+Malaria,sweating,headache,nausea
+Arthritis,muscle_pain,fatigue,swelling
+Anemia,pale_stool,anemia_symptoms,dizziness
+Appendicitis,vomiting,abdominal_pain,fever
+Anemia,pale_stool,anemia_symptoms,fatigue
+Arthritis,muscle_pain,fatigue,swelling
+Arthritis,muscle_pain,swelling,joint_pain
+Typhoid,fatigue,fever,abdominal_pain
+Flu,sore_throat,cough,chills
+Sinusitis,headache,runny_nose,ear_pain
+Tonsillitis,headache,sore_throat,fever
+Common Cold,runny_nose,cough,nasal_congestion
+Tonsillitis,swollen_lymph_nodes,sore_throat,fever
+Hypertension,high_blood_pressure,headache,blurred_vision
+Dengue,muscle_pain,headache,chills
+Malaria,fever,headache,nausea
+Hypertension,high_blood_pressure,dizziness,blurred_vision
+Typhoid,loss_of_appetite,fatigue,fever
+Appendicitis,abdominal_pain,nausea,fever
+Urinary Tract Infection,blood_in_urine,burning_urination,abdominal_pain
+Gastroenteritis,fever,vomiting,abdominal_pain
+Appendicitis,abdominal_pain,fever,nausea
+Strep Throat,rash,swollen_lymph_nodes,sore_throat
+Tonsillitis,swollen_lymph_nodes,headache,fever
+Malaria,nausea,chills,fever
+Tuberculosis,fatigue,fever,night_sweats
+Urinary Tract Infection,frequent_urination,blood_in_urine,abdominal_pain
+Flu,sore_throat,fever,chills
+Migraine,sensitivity_to_sound,vision_changes,nausea
+Dengue,fever,rash,joint_pain
+Typhoid,abdominal_pain,loss_of_appetite,fatigue
+Diabetes,blurred_vision,increased_thirst,frequent_urination
+Malaria,chills,nausea,sweating
+Dengue,headache,chills,muscle_pain
+Flu,body_aches,sore_throat,headache
+Dengue,headache,muscle_pain,joint_pain
+Bronchitis,wheezing,sore_throat,fever
+Appendicitis,fever,nausea,abdominal_pain
+Strep Throat,rash,sore_throat,swollen_lymph_nodes
+Migraine,sensitivity_to_sound,sensitivity_to_light,nausea
+Dengue,fever,joint_pain,rash
+Hepatitis,dark_urine,pale_stool,jaundice
+Appendicitis,nausea,vomiting,fever
+Hepatitis,abdominal_pain,fatigue,pale_stool
+Common Cold,sneezing,fever,nasal_congestion
+Hepatitis,pale_stool,dark_urine,jaundice
+Hepatitis,dark_urine,fatigue,pale_stool
+Tonsillitis,sore_throat,swollen_lymph_nodes,headache
+Gallstones,jaundice,nausea,abdominal_pain
+Migraine,headache,sensitivity_to_light,vision_changes
+Malaria,nausea,sweating,fever
+Pneumonia,sweating,cough,fatigue
+Strep Throat,fever,sore_throat,swollen_lymph_nodes
+Common Cold,cough,fever,runny_nose
+Hypertension,blurred_vision,dizziness,high_blood_pressure
+Diabetes,frequent_urination,increased_thirst,blurred_vision
+Hypertension,dizziness,headache,blurred_vision
+Strep Throat,fever,sore_throat,swollen_lymph_nodes
+Urinary Tract Infection,blood_in_urine,burning_urination,frequent_urination
+Urinary Tract Infection,blood_in_urine,abdominal_pain,frequent_urination
+Allergies,swelling,itching,runny_nose
+Diabetes,fatigue,increased_thirst,frequent_urination
+Common Cold,nasal_congestion,cough,runny_nose
+Migraine,vision_changes,sensitivity_to_light,nausea
+Gastroenteritis,abdominal_pain,vomiting,fever
+Arthritis,swelling,muscle_pain,joint_pain
+Gastroenteritis,fever,nausea,abdominal_pain
+Anemia,pale_stool,fatigue,anemia_symptoms
+Gallstones,vomiting,nausea,abdominal_pain
+Pneumonia,shortness_of_breath,fever,chills
+Allergies,hives,runny_nose,itching
+Diabetes,fatigue,increased_thirst,blurred_vision
+Pneumonia,cough,fatigue,chest_pain
+Tuberculosis,weight_loss,fatigue,coughing_blood
+Bronchitis,wheezing,sore_throat,fever
+Hepatitis,jaundice,abdominal_pain,dark_urine
+Sinusitis,runny_nose,headache,nasal_congestion
+Hypertension,headache,blurred_vision,high_blood_pressure
+Migraine,headache,vision_changes,sensitivity_to_light
+Sinusitis,ear_pain,nasal_congestion,runny_nose
+Sinusitis,runny_nose,sore_throat,headache
+Migraine,headache,nausea,vision_changes
+Urinary Tract Infection,blood_in_urine,burning_urination,frequent_urination
+Urinary Tract Infection,abdominal_pain,burning_urination,blood_in_urine
+Malaria,fever,nausea,chills
+Kidney Stones,blood_in_urine,nausea,side_pain
+Dengue,headache,fever,rash
+Allergies,swelling,sneezing,hives
+Appendicitis,nausea,vomiting,abdominal_pain
+Hypertension,headache,dizziness,high_blood_pressure
+Allergies,sneezing,hives,runny_nose
+Pneumonia,shortness_of_breath,chest_pain,sweating
+Strep Throat,sore_throat,fever,swollen_lymph_nodes
+Hypertension,blurred_vision,dizziness,high_blood_pressure
+Diabetes,increased_thirst,fatigue,blurred_vision
+Anemia,anemia_symptoms,fatigue,dizziness
+Common Cold,runny_nose,cough,sore_throat
+Allergies,hives,itching,sneezing
+Common Cold,cough,fever,runny_nose
+Hepatitis,abdominal_pain,fatigue,pale_stool
+Arthritis,joint_pain,muscle_pain,fatigue
+Pneumonia,chest_pain,cough,fatigue
+Hypertension,headache,dizziness,high_blood_pressure
+Appendicitis,abdominal_pain,vomiting,nausea
+Anemia,anemia_symptoms,fatigue,dizziness
+Hypertension,high_blood_pressure,dizziness,blurred_vision
+Allergies,runny_nose,hives,itching
+Malaria,headache,fever,chills
+Malaria,fever,nausea,headache
+Flu,body_aches,headache,cough
+Anemia,pale_stool,dizziness,anemia_symptoms
+Appendicitis,nausea,fever,vomiting
+Gastroenteritis,abdominal_pain,diarrhea,nausea
+Common Cold,sore_throat,fever,nasal_congestion
+Asthma,cough,wheezing,shortness_of_breath
+Sinusitis,runny_nose,headache,sore_throat
+Tonsillitis,fever,headache,swollen_lymph_nodes
+Kidney Stones,nausea,side_pain,blood_in_urine
+Strep Throat,swollen_lymph_nodes,rash,fever
+Flu,headache,fever,chills
+Malaria,headache,sweating,chills
+Tonsillitis,headache,fever,swollen_lymph_nodes
+Asthma,cough,wheezing,chest_tightness
+Hepatitis,pale_stool,fatigue,abdominal_pain
+Hypertension,blurred_vision,headache,high_blood_pressure
+Bronchitis,fever,wheezing,chest_pain
+Hepatitis,pale_stool,fatigue,dark_urine
+Tuberculosis,fatigue,weight_loss,fever
+Tonsillitis,sore_throat,swollen_lymph_nodes,headache
+Hepatitis,fatigue,dark_urine,jaundice
+Tonsillitis,headache,sore_throat,fever
+Gallstones,vomiting,abdominal_pain,jaundice
+Tuberculosis,night_sweats,weight_loss,coughing_blood
+Diabetes,frequent_urination,fatigue,increased_thirst
+Arthritis,fatigue,muscle_pain,joint_pain
+Kidney Stones,nausea,blood_in_urine,burning_urination
+Tonsillitis,headache,sore_throat,swollen_lymph_nodes
+Asthma,cough,wheezing,shortness_of_breath
+Arthritis,joint_pain,fatigue,muscle_pain
+Hepatitis,jaundice,abdominal_pain,fatigue
+Diabetes,blurred_vision,frequent_urination,fatigue
+Hypertension,dizziness,high_blood_pressure,blurred_vision
+Gallstones,nausea,jaundice,vomiting
+Arthritis,fatigue,joint_pain,muscle_pain
+Malaria,nausea,chills,sweating
+Tuberculosis,night_sweats,weight_loss,fever
+Urinary Tract Infection,frequent_urination,burning_urination,blood_in_urine
+Gallstones,abdominal_pain,jaundice,vomiting
+Tonsillitis,headache,swollen_lymph_nodes,sore_throat
+Sinusitis,headache,nasal_congestion,sore_throat
+Strep Throat,sore_throat,swollen_lymph_nodes,rash
+Arthritis,joint_pain,swelling,fatigue
+Dengue,fever,rash,muscle_pain
+Common Cold,fever,sneezing,nasal_congestion
+Urinary Tract Infection,abdominal_pain,burning_urination,blood_in_urine
+Anemia,fatigue,dizziness,pale_stool
+Arthritis,muscle_pain,fatigue,joint_pain
+Malaria,sweating,chills,fever
+Tonsillitis,sore_throat,swollen_lymph_nodes,fever
+Urinary Tract Infection,abdominal_pain,blood_in_urine,burning_urination
+Sinusitis,runny_nose,ear_pain,headache
+Arthritis,fatigue,muscle_pain,joint_pain
+Arthritis,fatigue,muscle_pain,swelling
+Anemia,dizziness,fatigue,pale_stool
+Flu,chills,cough,body_aches
+Gallstones,vomiting,abdominal_pain,jaundice
+Diabetes,fatigue,frequent_urination,blurred_vision
+Asthma,chest_tightness,shortness_of_breath,cough
+Asthma,chest_tightness,cough,wheezing
+Diabetes,fatigue,increased_thirst,blurred_vision
+Migraine,nausea,sensitivity_to_light,vision_changes
+Typhoid,loss_of_appetite,abdominal_pain,rash
+Pneumonia,chest_pain,shortness_of_breath,sweating
+Common Cold,cough,fever,sneezing
+Common Cold,cough,nasal_congestion,runny_nose
+Gastroenteritis,nausea,vomiting,fever
+Strep Throat,fever,swollen_lymph_nodes,rash
+Strep Throat,swollen_lymph_nodes,fever,sore_throat
+Arthritis,joint_pain,muscle_pain,fatigue
+Kidney Stones,nausea,blood_in_urine,side_pain
+Arthritis,joint_pain,fatigue,swelling
+Diabetes,increased_thirst,blurred_vision,frequent_urination
+Typhoid,abdominal_pain,fever,rash
+Typhoid,abdominal_pain,loss_of_appetite,fever
+Kidney Stones,nausea,blood_in_urine,burning_urination
+Tonsillitis,sore_throat,swollen_lymph_nodes,fever
+Flu,body_aches,fatigue,headache
+Gallstones,vomiting,jaundice,nausea
+Tuberculosis,weight_loss,coughing_blood,fatigue
+Migraine,sensitivity_to_light,vision_changes,headache
+Malaria,chills,sweating,nausea
+Anemia,pale_stool,fatigue,anemia_symptoms
+Allergies,itching,hives,sneezing
+Allergies,swelling,itching,sneezing
+Gallstones,jaundice,abdominal_pain,nausea
+Bronchitis,sore_throat,fever,cough
+Common Cold,cough,runny_nose,sneezing
+Appendicitis,nausea,fever,vomiting
+Typhoid,fever,loss_of_appetite,abdominal_pain
+Asthma,cough,wheezing,shortness_of_breath
+Migraine,vision_changes,nausea,sensitivity_to_sound
+Hepatitis,abdominal_pain,fatigue,jaundice
+Tuberculosis,fever,night_sweats,fatigue
+Bronchitis,sore_throat,cough,chest_pain
+Anemia,fatigue,pale_stool,dizziness
+Tonsillitis,swollen_lymph_nodes,fever,headache
+Flu,body_aches,chills,sore_throat
+Malaria,nausea,headache,fever
+Kidney Stones,side_pain,burning_urination,blood_in_urine
+Typhoid,fatigue,fever,abdominal_pain
+Sinusitis,runny_nose,headache,sore_throat
+Strep Throat,sore_throat,swollen_lymph_nodes,rash
+Pneumonia,fever,cough,fatigue
+Gallstones,nausea,abdominal_pain,jaundice
+Flu,headache,chills,sore_throat
+Tuberculosis,weight_loss,coughing_blood,fever
+Dengue,chills,muscle_pain,rash
+Urinary Tract Infection,frequent_urination,blood_in_urine,abdominal_pain
+Bronchitis,chest_pain,wheezing,sore_throat
+Common Cold,sneezing,fever,nasal_congestion
+Malaria,sweating,fever,chills
+Pneumonia,chest_pain,fever,sweating
+Hypertension,high_blood_pressure,headache,dizziness
+Gastroenteritis,diarrhea,vomiting,nausea
+Kidney Stones,side_pain,nausea,burning_urination
+Malaria,chills,fever,headache
+Common Cold,sore_throat,nasal_congestion,sneezing
+Tonsillitis,headache,fever,sore_throat
+Urinary Tract Infection,frequent_urination,abdominal_pain,burning_urination
+Sinusitis,sore_throat,headache,runny_nose
+Gastroenteritis,diarrhea,vomiting,fever
+Gallstones,abdominal_pain,vomiting,nausea
+Bronchitis,chest_pain,cough,wheezing
+Gallstones,abdominal_pain,nausea,vomiting
+Hepatitis,abdominal_pain,pale_stool,dark_urine
+Strep Throat,swollen_lymph_nodes,sore_throat,rash
+Migraine,nausea,sensitivity_to_sound,vision_changes
+Bronchitis,fatigue,sore_throat,cough
+Tuberculosis,coughing_blood,fever,fatigue
+Hypertension,blurred_vision,high_blood_pressure,dizziness
+Hypertension,dizziness,high_blood_pressure,headache
+Gallstones,jaundice,abdominal_pain,nausea
+Gastroenteritis,abdominal_pain,fever,vomiting
+Migraine,headache,sensitivity_to_light,sensitivity_to_sound
+Sinusitis,ear_pain,sore_throat,headache
+Tuberculosis,coughing_blood,fatigue,night_sweats
+Typhoid,fatigue,loss_of_appetite,abdominal_pain
+Pneumonia,shortness_of_breath,fever,chills
+Common Cold,runny_nose,cough,fever
+Urinary Tract Infection,frequent_urination,burning_urination,abdominal_pain
+Tonsillitis,fever,swollen_lymph_nodes,sore_throat
+Hypertension,headache,high_blood_pressure,blurred_vision
+Kidney Stones,side_pain,nausea,burning_urination
+Asthma,chest_tightness,shortness_of_breath,cough
+Appendicitis,vomiting,nausea,abdominal_pain
+Hypertension,blurred_vision,headache,dizziness
+Diabetes,increased_thirst,frequent_urination,blurred_vision
+Asthma,cough,chest_tightness,wheezing
+Common Cold,sore_throat,runny_nose,cough
+Malaria,sweating,chills,headache
+Allergies,runny_nose,sneezing,swelling
+Flu,chills,fever,sore_throat
+Dengue,chills,fever,muscle_pain
+Asthma,shortness_of_breath,cough,chest_tightness
+Allergies,hives,swelling,runny_nose
+Dengue,fever,headache,muscle_pain
+Tuberculosis,fatigue,weight_loss,coughing_blood
+Hepatitis,pale_stool,dark_urine,abdominal_pain
+Hypertension,headache,high_blood_pressure,blurred_vision
+Hypertension,high_blood_pressure,blurred_vision,headache
+Anemia,anemia_symptoms,dizziness,pale_stool
+Strep Throat,sore_throat,swollen_lymph_nodes,rash
+Appendicitis,nausea,abdominal_pain,fever
+Malaria,sweating,nausea,chills
+Migraine,sensitivity_to_sound,vision_changes,headache
+Hypertension,dizziness,headache,high_blood_pressure
+Flu,cough,fever,sore_throat
+Gastroenteritis,abdominal_pain,nausea,vomiting
+Bronchitis,cough,fever,wheezing
+Asthma,chest_tightness,shortness_of_breath,cough
+Appendicitis,vomiting,abdominal_pain,fever
+Asthma,wheezing,chest_tightness,cough
+Allergies,itching,runny_nose,swelling
+Gallstones,nausea,abdominal_pain,jaundice
+Gastroenteritis,fever,vomiting,diarrhea
+Flu,sore_throat,chills,body_aches
+Kidney Stones,blood_in_urine,side_pain,burning_urination
+Flu,headache,cough,fatigue
+Malaria,nausea,headache,chills
+Pneumonia,chest_pain,shortness_of_breath,cough
+Gallstones,abdominal_pain,vomiting,nausea
+Migraine,nausea,sensitivity_to_light,headache
+Hepatitis,abdominal_pain,jaundice,dark_urine
+Hepatitis,abdominal_pain,pale_stool,jaundice
+Appendicitis,nausea,fever,vomiting
+Anemia,fatigue,pale_stool,dizziness
+Sinusitis,runny_nose,headache,ear_pain
+Asthma,wheezing,shortness_of_breath,cough
+Kidney Stones,side_pain,burning_urination,nausea
+Hypertension,dizziness,headache,blurred_vision
+Asthma,chest_tightness,cough,wheezing
+Urinary Tract Infection,blood_in_urine,abdominal_pain,frequent_urination
+Gallstones,vomiting,nausea,jaundice
+Appendicitis,nausea,abdominal_pain,vomiting
+Tuberculosis,coughing_blood,fatigue,night_sweats
+Allergies,sneezing,hives,itching
+Typhoid,fatigue,loss_of_appetite,fever
+Gallstones,nausea,vomiting,abdominal_pain
+Gallstones,vomiting,abdominal_pain,nausea
+Appendicitis,vomiting,fever,nausea
+Appendicitis,fever,abdominal_pain,vomiting
+Tuberculosis,weight_loss,fatigue,night_sweats
+Anemia,anemia_symptoms,dizziness,pale_stool
+Flu,headache,cough,body_aches
+Asthma,chest_tightness,shortness_of_breath,cough
+Tonsillitis,fever,sore_throat,swollen_lymph_nodes
+Dengue,joint_pain,muscle_pain,headache
+Malaria,sweating,nausea,chills
+Pneumonia,fever,fatigue,chills
+Diabetes,fatigue,blurred_vision,increased_thirst
+Typhoid,fever,loss_of_appetite,fatigue
+Strep Throat,sore_throat,swollen_lymph_nodes,fever
+Kidney Stones,blood_in_urine,side_pain,burning_urination
+Sinusitis,sore_throat,nasal_congestion,runny_nose
+Kidney Stones,blood_in_urine,nausea,burning_urination
+Tuberculosis,weight_loss,fatigue,coughing_blood
+Pneumonia,chills,chest_pain,shortness_of_breath
+Typhoid,rash,loss_of_appetite,fever
+Kidney Stones,burning_urination,nausea,side_pain
+Allergies,itching,sneezing,swelling
+Flu,sore_throat,fatigue,cough
+Tuberculosis,fatigue,coughing_blood,weight_loss
+Gastroenteritis,fever,abdominal_pain,vomiting
+Allergies,swelling,itching,runny_nose
+Asthma,wheezing,shortness_of_breath,cough
+Malaria,sweating,nausea,fever
+Arthritis,fatigue,joint_pain,swelling
+Dengue,fever,muscle_pain,rash
+Diabetes,increased_thirst,fatigue,frequent_urination
+Sinusitis,ear_pain,sore_throat,headache
+Malaria,sweating,fever,nausea
+Gastroenteritis,diarrhea,fever,vomiting
+Arthritis,fatigue,muscle_pain,swelling
+Kidney Stones,nausea,blood_in_urine,burning_urination
+Flu,fatigue,cough,chills
+Appendicitis,fever,abdominal_pain,nausea
+Arthritis,joint_pain,fatigue,swelling
+Migraine,sensitivity_to_light,vision_changes,sensitivity_to_sound
+Arthritis,fatigue,joint_pain,muscle_pain
+Arthritis,fatigue,swelling,joint_pain
+Migraine,sensitivity_to_light,sensitivity_to_sound,vision_changes
+Flu,headache,body_aches,fatigue
+Strep Throat,swollen_lymph_nodes,fever,sore_throat
+Bronchitis,sore_throat,fatigue,chest_pain
+Hepatitis,jaundice,pale_stool,dark_urine
+Allergies,hives,sneezing,runny_nose
+Urinary Tract Infection,frequent_urination,blood_in_urine,abdominal_pain
+Diabetes,frequent_urination,fatigue,increased_thirst
+Dengue,headache,muscle_pain,chills
+Bronchitis,wheezing,fever,cough
+Asthma,chest_tightness,wheezing,shortness_of_breath
+Flu,body_aches,fatigue,headache
+Diabetes,blurred_vision,fatigue,increased_thirst
+Tonsillitis,headache,swollen_lymph_nodes,fever
+Gallstones,vomiting,nausea,abdominal_pain
+Arthritis,joint_pain,muscle_pain,swelling
+Kidney Stones,blood_in_urine,side_pain,nausea
+Arthritis,fatigue,joint_pain,swelling
+Common Cold,cough,sneezing,fever
+Asthma,wheezing,shortness_of_breath,cough
+Flu,fever,sore_throat,headache
+Migraine,headache,sensitivity_to_sound,vision_changes
+Urinary Tract Infection,frequent_urination,burning_urination,blood_in_urine
+Pneumonia,shortness_of_breath,fatigue,cough
+Strep Throat,swollen_lymph_nodes,rash,sore_throat
+Migraine,vision_changes,headache,sensitivity_to_light
+Arthritis,joint_pain,swelling,muscle_pain
+Appendicitis,fever,abdominal_pain,vomiting
+Hepatitis,pale_stool,dark_urine,fatigue
+Tuberculosis,weight_loss,coughing_blood,fever
+Strep Throat,rash,fever,sore_throat
+Malaria,nausea,fever,sweating
+Hypertension,blurred_vision,dizziness,high_blood_pressure
+Common Cold,nasal_congestion,cough,runny_nose
+Hepatitis,dark_urine,abdominal_pain,pale_stool
+Sinusitis,headache,sore_throat,runny_nose
+Diabetes,fatigue,increased_thirst,blurred_vision
+Dengue,muscle_pain,rash,chills
+Hypertension,dizziness,blurred_vision,headache
+Pneumonia,fatigue,sweating,chills
+Flu,chills,cough,fever
+Dengue,headache,rash,fever
+Urinary Tract Infection,blood_in_urine,frequent_urination,burning_urination
+Bronchitis,sore_throat,wheezing,chest_pain
+Asthma,cough,chest_tightness,shortness_of_breath
+Strep Throat,rash,sore_throat,swollen_lymph_nodes
+Urinary Tract Infection,blood_in_urine,burning_urination,abdominal_pain
+Strep Throat,sore_throat,swollen_lymph_nodes,rash
+Urinary Tract Infection,burning_urination,blood_in_urine,abdominal_pain
+Malaria,nausea,fever,sweating
+Anemia,pale_stool,dizziness,fatigue
+Urinary Tract Infection,abdominal_pain,blood_in_urine,frequent_urination
+Typhoid,fatigue,fever,loss_of_appetite
+Urinary Tract Infection,frequent_urination,blood_in_urine,burning_urination
+Hepatitis,pale_stool,jaundice,abdominal_pain
+Hypertension,high_blood_pressure,blurred_vision,headache
+Hepatitis,dark_urine,fatigue,jaundice
+Hypertension,high_blood_pressure,dizziness,blurred_vision
+Anemia,dizziness,anemia_symptoms,pale_stool
+Arthritis,joint_pain,fatigue,swelling
+Tonsillitis,fever,swollen_lymph_nodes,headache
+Appendicitis,fever,vomiting,nausea
+Anemia,pale_stool,anemia_symptoms,dizziness
+Dengue,headache,joint_pain,fever
+Gallstones,nausea,vomiting,jaundice
+Tuberculosis,fever,fatigue,coughing_blood
+Appendicitis,nausea,fever,vomiting
+Common Cold,fever,runny_nose,cough
+Flu,fever,fatigue,cough
+Urinary Tract Infection,blood_in_urine,abdominal_pain,frequent_urination
+Pneumonia,chills,shortness_of_breath,fatigue
+Appendicitis,nausea,vomiting,fever
+Strep Throat,fever,swollen_lymph_nodes,sore_throat
+Diabetes,increased_thirst,frequent_urination,blurred_vision
+Migraine,vision_changes,nausea,sensitivity_to_sound
+Tuberculosis,fatigue,night_sweats,coughing_blood
+Dengue,chills,fever,joint_pain
+Hypertension,high_blood_pressure,blurred_vision,dizziness
+Common Cold,fever,cough,runny_nose
+Malaria,fever,chills,nausea
+Strep Throat,rash,fever,swollen_lymph_nodes
+Asthma,wheezing,chest_tightness,shortness_of_breath
+Common Cold,sore_throat,runny_nose,sneezing
+Dengue,muscle_pain,headache,joint_pain
+Strep Throat,rash,swollen_lymph_nodes,sore_throat
+Tonsillitis,headache,fever,sore_throat
+Dengue,joint_pain,fever,muscle_pain
+Gastroenteritis,fever,vomiting,abdominal_pain
+Arthritis,joint_pain,fatigue,muscle_pain
+Asthma,shortness_of_breath,chest_tightness,wheezing
+Malaria,chills,fever,nausea
+Tuberculosis,weight_loss,fatigue,night_sweats
+Migraine,sensitivity_to_sound,nausea,headache
+Malaria,chills,sweating,fever
+Sinusitis,sore_throat,runny_nose,nasal_congestion
+Pneumonia,fever,shortness_of_breath,chills
+Bronchitis,fatigue,fever,sore_throat
+Typhoid,abdominal_pain,loss_of_appetite,fatigue
+Strep Throat,sore_throat,swollen_lymph_nodes,fever
+Flu,fatigue,chills,headache
+Diabetes,fatigue,increased_thirst,frequent_urination
+Dengue,muscle_pain,headache,joint_pain
+Hypertension,headache,dizziness,high_blood_pressure
+Anemia,dizziness,fatigue,anemia_symptoms
+Sinusitis,headache,runny_nose,nasal_congestion
+Gallstones,jaundice,abdominal_pain,nausea
+Hypertension,headache,blurred_vision,high_blood_pressure
+Arthritis,swelling,muscle_pain,joint_pain
+Migraine,sensitivity_to_light,nausea,sensitivity_to_sound
+Dengue,rash,chills,muscle_pain
+Pneumonia,cough,fever,fatigue
+Tonsillitis,swollen_lymph_nodes,headache,sore_throat
+Pneumonia,fatigue,chest_pain,fever
+Asthma,shortness_of_breath,cough,wheezing
+Dengue,fever,chills,headache
+Tonsillitis,fever,sore_throat,swollen_lymph_nodes
+Arthritis,swelling,muscle_pain,joint_pain
+Urinary Tract Infection,abdominal_pain,burning_urination,blood_in_urine
+Typhoid,abdominal_pain,fatigue,loss_of_appetite
+Allergies,sneezing,itching,hives
+Flu,fatigue,headache,fever
+Flu,chills,cough,body_aches
+Kidney Stones,burning_urination,side_pain,nausea
+Kidney Stones,blood_in_urine,nausea,side_pain
+Hepatitis,dark_urine,fatigue,abdominal_pain
+Arthritis,swelling,joint_pain,fatigue
+Common Cold,sore_throat,sneezing,cough
+Hypertension,dizziness,headache,blurred_vision
+Tuberculosis,fever,weight_loss,coughing_blood
+Diabetes,blurred_vision,frequent_urination,fatigue
+Dengue,chills,fever,headache
+Anemia,anemia_symptoms,pale_stool,fatigue
+Asthma,shortness_of_breath,wheezing,cough
+Bronchitis,sore_throat,fever,fatigue
+Kidney Stones,burning_urination,blood_in_urine,side_pain
+Urinary Tract Infection,blood_in_urine,abdominal_pain,burning_urination
+Hypertension,headache,blurred_vision,dizziness
+Asthma,shortness_of_breath,cough,wheezing
+Typhoid,loss_of_appetite,rash,abdominal_pain
+Strep Throat,rash,swollen_lymph_nodes,sore_throat
+Hypertension,dizziness,high_blood_pressure,blurred_vision
+Bronchitis,fatigue,fever,sore_throat
+Urinary Tract Infection,abdominal_pain,burning_urination,blood_in_urine
+Gallstones,nausea,vomiting,abdominal_pain
+Hypertension,blurred_vision,headache,dizziness
+Anemia,anemia_symptoms,dizziness,fatigue
+Appendicitis,nausea,abdominal_pain,fever
+Tonsillitis,fever,swollen_lymph_nodes,sore_throat
+Gastroenteritis,diarrhea,abdominal_pain,fever
+Tuberculosis,coughing_blood,night_sweats,fatigue
+Arthritis,muscle_pain,swelling,fatigue
+Arthritis,joint_pain,swelling,fatigue
+Migraine,vision_changes,sensitivity_to_sound,sensitivity_to_light
+Hepatitis,abdominal_pain,jaundice,dark_urine
+Gallstones,jaundice,abdominal_pain,vomiting
+Tuberculosis,night_sweats,fatigue,weight_loss
+Gallstones,vomiting,abdominal_pain,nausea
+Allergies,itching,hives,sneezing
+Migraine,nausea,headache,sensitivity_to_light
+Kidney Stones,blood_in_urine,burning_urination,side_pain
+Bronchitis,fever,fatigue,wheezing
+Gallstones,nausea,vomiting,abdominal_pain
+Appendicitis,vomiting,nausea,abdominal_pain
+Tuberculosis,fatigue,fever,night_sweats
+Typhoid,fever,loss_of_appetite,rash
+Sinusitis,runny_nose,ear_pain,sore_throat
+Allergies,runny_nose,hives,itching
+Allergies,sneezing,swelling,runny_nose
+Malaria,chills,fever,sweating
+Common Cold,nasal_congestion,runny_nose,sore_throat
+Allergies,itching,swelling,sneezing
+Hypertension,headache,dizziness,high_blood_pressure
+Hepatitis,jaundice,dark_urine,abdominal_pain
+Arthritis,fatigue,muscle_pain,swelling
+Pneumonia,chills,cough,chest_pain
+Asthma,cough,chest_tightness,wheezing
+Arthritis,muscle_pain,swelling,fatigue
+Pneumonia,chills,fatigue,chest_pain
+Common Cold,nasal_congestion,runny_nose,sore_throat
+Arthritis,swelling,fatigue,muscle_pain
+Anemia,anemia_symptoms,dizziness,fatigue
+Asthma,cough,wheezing,shortness_of_breath
+Common Cold,runny_nose,sore_throat,sneezing
+Asthma,wheezing,cough,chest_tightness
+Flu,fever,cough,headache
+Common Cold,fever,runny_nose,sore_throat
+Allergies,runny_nose,sneezing,itching
+Hepatitis,fatigue,jaundice,abdominal_pain
+Anemia,fatigue,pale_stool,anemia_symptoms
+Gallstones,abdominal_pain,vomiting,nausea
+Bronchitis,cough,wheezing,sore_throat
+Hepatitis,jaundice,fatigue,pale_stool
+Hypertension,high_blood_pressure,headache,dizziness
+Gastroenteritis,abdominal_pain,fever,diarrhea
+Kidney Stones,burning_urination,side_pain,blood_in_urine
+Gallstones,nausea,jaundice,abdominal_pain
+Kidney Stones,side_pain,nausea,burning_urination
+Sinusitis,nasal_congestion,headache,runny_nose
+Gallstones,abdominal_pain,jaundice,vomiting
+Typhoid,abdominal_pain,loss_of_appetite,fever
+Flu,headache,body_aches,fever
+Migraine,nausea,sensitivity_to_light,vision_changes
+Bronchitis,chest_pain,sore_throat,fatigue
+Anemia,pale_stool,fatigue,anemia_symptoms
+Flu,fever,sore_throat,headache
+Asthma,cough,wheezing,chest_tightness
+Allergies,itching,runny_nose,hives
+Typhoid,fatigue,rash,loss_of_appetite
+Allergies,swelling,sneezing,runny_nose
+Asthma,chest_tightness,cough,wheezing
+Tonsillitis,headache,swollen_lymph_nodes,sore_throat
+Appendicitis,abdominal_pain,fever,nausea
+Tuberculosis,fever,fatigue,night_sweats
+Pneumonia,sweating,cough,chest_pain
+Malaria,sweating,fever,chills
+Tonsillitis,swollen_lymph_nodes,sore_throat,fever
+Asthma,chest_tightness,cough,wheezing
+Tuberculosis,fatigue,fever,coughing_blood
+Hepatitis,dark_urine,abdominal_pain,jaundice
+Common Cold,cough,sore_throat,nasal_congestion
+Kidney Stones,side_pain,nausea,burning_urination
+Common Cold,nasal_congestion,fever,sore_throat
+Gallstones,jaundice,nausea,vomiting
+Strep Throat,rash,fever,sore_throat
+Strep Throat,sore_throat,rash,fever
+Anemia,anemia_symptoms,dizziness,pale_stool
+Pneumonia,shortness_of_breath,fever,chest_pain
+Diabetes,blurred_vision,increased_thirst,fatigue
+Allergies,itching,sneezing,hives
+Hepatitis,fatigue,abdominal_pain,jaundice
+Tonsillitis,sore_throat,fever,swollen_lymph_nodes
+Gallstones,jaundice,nausea,abdominal_pain
+Arthritis,muscle_pain,swelling,fatigue
+Allergies,runny_nose,sneezing,itching
+Tuberculosis,coughing_blood,night_sweats,weight_loss
+Malaria,chills,headache,nausea
+Dengue,joint_pain,muscle_pain,headache
+Asthma,chest_tightness,cough,wheezing
+Dengue,rash,chills,headache
+Migraine,sensitivity_to_light,nausea,headache
+Arthritis,swelling,fatigue,muscle_pain
+Common Cold,runny_nose,nasal_congestion,fever
+Malaria,headache,fever,chills
+Gastroenteritis,diarrhea,fever,abdominal_pain
+Kidney Stones,blood_in_urine,side_pain,burning_urination
+Migraine,sensitivity_to_sound,sensitivity_to_light,headache
+Hepatitis,fatigue,abdominal_pain,dark_urine
+Dengue,chills,rash,muscle_pain
+Migraine,sensitivity_to_sound,sensitivity_to_light,headache
+Kidney Stones,burning_urination,nausea,side_pain
+Allergies,sneezing,itching,swelling
+Hypertension,headache,blurred_vision,high_blood_pressure
+Tuberculosis,night_sweats,weight_loss,fever
+Sinusitis,sore_throat,headache,nasal_congestion
+Hypertension,headache,blurred_vision,high_blood_pressure
+Diabetes,increased_thirst,fatigue,frequent_urination
+Flu,fever,fatigue,headache
+Pneumonia,cough,sweating,chills
+Strep Throat,swollen_lymph_nodes,fever,sore_throat
+Hepatitis,dark_urine,jaundice,abdominal_pain
+Sinusitis,nasal_congestion,headache,runny_nose
+Tonsillitis,swollen_lymph_nodes,fever,headache
+Arthritis,swelling,fatigue,joint_pain
+Flu,headache,fever,sore_throat
+Flu,sore_throat,chills,fever
+Allergies,swelling,itching,runny_nose
+Migraine,nausea,sensitivity_to_light,sensitivity_to_sound
+Bronchitis,sore_throat,wheezing,chest_pain
+Urinary Tract Infection,burning_urination,abdominal_pain,frequent_urination
+Arthritis,fatigue,joint_pain,muscle_pain
+Anemia,dizziness,anemia_symptoms,pale_stool
+Dengue,chills,fever,joint_pain
+Diabetes,blurred_vision,frequent_urination,fatigue
+Strep Throat,fever,rash,swollen_lymph_nodes
+Typhoid,rash,abdominal_pain,fatigue
+Asthma,chest_tightness,cough,shortness_of_breath
+Urinary Tract Infection,frequent_urination,abdominal_pain,blood_in_urine
+Asthma,shortness_of_breath,cough,chest_tightness
+Common Cold,cough,nasal_congestion,fever
+Sinusitis,ear_pain,nasal_congestion,runny_nose
+Anemia,anemia_symptoms,fatigue,dizziness
+Asthma,wheezing,cough,chest_tightness
+Urinary Tract Infection,frequent_urination,abdominal_pain,burning_urination
+Arthritis,fatigue,muscle_pain,swelling
+Migraine,sensitivity_to_light,headache,vision_changes
+Allergies,hives,swelling,itching
+Pneumonia,cough,shortness_of_breath,chest_pain
+Hepatitis,jaundice,pale_stool,dark_urine
+Urinary Tract Infection,burning_urination,blood_in_urine,abdominal_pain
+Appendicitis,fever,vomiting,abdominal_pain
+Diabetes,blurred_vision,frequent_urination,fatigue
+Arthritis,muscle_pain,swelling,fatigue
+Pneumonia,fever,sweating,cough
+Flu,chills,fatigue,cough
+Hypertension,blurred_vision,headache,dizziness
+Appendicitis,nausea,fever,abdominal_pain
+Common Cold,sneezing,cough,nasal_congestion
+Migraine,nausea,vision_changes,sensitivity_to_light
+Asthma,shortness_of_breath,chest_tightness,cough
+Asthma,chest_tightness,wheezing,shortness_of_breath
+Kidney Stones,blood_in_urine,burning_urination,nausea
+Anemia,fatigue,dizziness,pale_stool
+Asthma,cough,chest_tightness,wheezing
+Arthritis,joint_pain,fatigue,swelling
+Sinusitis,nasal_congestion,ear_pain,headache
+Appendicitis,abdominal_pain,vomiting,fever
+Pneumonia,chest_pain,sweating,fever
+Typhoid,loss_of_appetite,fever,abdominal_pain
+Anemia,dizziness,fatigue,anemia_symptoms
+Typhoid,fatigue,abdominal_pain,fever
+Urinary Tract Infection,blood_in_urine,frequent_urination,abdominal_pain
+Pneumonia,fever,chills,chest_pain
+Strep Throat,sore_throat,rash,fever
+Bronchitis,wheezing,fatigue,cough
+Sinusitis,ear_pain,runny_nose,nasal_congestion
+Tonsillitis,fever,sore_throat,swollen_lymph_nodes
+Typhoid,loss_of_appetite,rash,fever
+Pneumonia,fever,fatigue,chest_pain
+Appendicitis,nausea,vomiting,abdominal_pain
+Flu,headache,cough,sore_throat
+Tonsillitis,headache,swollen_lymph_nodes,sore_throat
+Typhoid,rash,fatigue,abdominal_pain
+Anemia,pale_stool,dizziness,fatigue
+Sinusitis,runny_nose,nasal_congestion,headache
+Diabetes,fatigue,frequent_urination,blurred_vision
+Bronchitis,fatigue,sore_throat,fever
+Urinary Tract Infection,blood_in_urine,burning_urination,abdominal_pain
+Strep Throat,swollen_lymph_nodes,sore_throat,fever
+Gallstones,abdominal_pain,jaundice,nausea
+Bronchitis,sore_throat,wheezing,fever
+Anemia,fatigue,dizziness,anemia_symptoms
+Diabetes,frequent_urination,fatigue,blurred_vision
+Kidney Stones,burning_urination,side_pain,blood_in_urine
+Appendicitis,abdominal_pain,fever,nausea
+Tonsillitis,fever,headache,swollen_lymph_nodes
+Asthma,cough,wheezing,chest_tightness
+Anemia,pale_stool,fatigue,anemia_symptoms
+Migraine,sensitivity_to_sound,vision_changes,headache
+Appendicitis,fever,abdominal_pain,vomiting
+Arthritis,joint_pain,fatigue,swelling
+Tuberculosis,weight_loss,night_sweats,coughing_blood
+Diabetes,blurred_vision,increased_thirst,fatigue
+Dengue,muscle_pain,headache,fever
+Tonsillitis,swollen_lymph_nodes,fever,sore_throat
+Gallstones,nausea,abdominal_pain,vomiting
+Kidney Stones,burning_urination,nausea,side_pain
+Migraine,nausea,sensitivity_to_light,headache
+Diabetes,frequent_urination,fatigue,increased_thirst
+Tuberculosis,weight_loss,fatigue,fever
+Allergies,swelling,itching,runny_nose
+Hypertension,blurred_vision,headache,high_blood_pressure
+Strep Throat,swollen_lymph_nodes,rash,fever
+Urinary Tract Infection,abdominal_pain,burning_urination,blood_in_urine
+Migraine,vision_changes,sensitivity_to_sound,sensitivity_to_light
+Anemia,anemia_symptoms,fatigue,dizziness
+Tuberculosis,night_sweats,fever,weight_loss
+Tuberculosis,coughing_blood,fatigue,weight_loss
+Anemia,pale_stool,fatigue,dizziness
+Bronchitis,chest_pain,fever,sore_throat
+Malaria,headache,nausea,fever
+Arthritis,swelling,joint_pain,muscle_pain
+Common Cold,runny_nose,sneezing,nasal_congestion
+Bronchitis,fever,chest_pain,fatigue
+Allergies,sneezing,hives,itching
+Common Cold,nasal_congestion,runny_nose,fever
+Common Cold,sneezing,runny_nose,fever
+Kidney Stones,nausea,burning_urination,side_pain
+Bronchitis,chest_pain,fatigue,fever
+Hypertension,dizziness,blurred_vision,high_blood_pressure
+Dengue,joint_pain,muscle_pain,headache
+Malaria,sweating,chills,nausea
+Pneumonia,sweating,shortness_of_breath,fatigue
+Tuberculosis,coughing_blood,fatigue,night_sweats
+Strep Throat,swollen_lymph_nodes,sore_throat,rash
+Malaria,fever,headache,chills
+Strep Throat,sore_throat,rash,swollen_lymph_nodes
+Flu,headache,chills,fever
+Strep Throat,fever,swollen_lymph_nodes,sore_throat
+Sinusitis,sore_throat,nasal_congestion,ear_pain
+Pneumonia,cough,chest_pain,fatigue
+Malaria,headache,fever,sweating
+Allergies,swelling,hives,itching
+Tuberculosis,fatigue,night_sweats,fever
+Typhoid,rash,fatigue,fever
+Sinusitis,headache,nasal_congestion,sore_throat
+Pneumonia,fatigue,fever,chills
+Allergies,hives,itching,swelling
+Urinary Tract Infection,blood_in_urine,burning_urination,abdominal_pain
+Diabetes,fatigue,frequent_urination,increased_thirst
+Pneumonia,fatigue,chest_pain,fever
+Asthma,cough,shortness_of_breath,chest_tightness
+Tuberculosis,night_sweats,coughing_blood,fatigue
+Hypertension,dizziness,headache,high_blood_pressure
+Diabetes,fatigue,blurred_vision,frequent_urination
+Kidney Stones,burning_urination,side_pain,nausea
+Kidney Stones,nausea,burning_urination,blood_in_urine
+Hypertension,headache,dizziness,blurred_vision
+Flu,headache,fever,cough
+Allergies,itching,swelling,sneezing
+Kidney Stones,blood_in_urine,side_pain,nausea
+Gastroenteritis,fever,abdominal_pain,nausea
+Malaria,chills,fever,nausea
+Typhoid,fever,loss_of_appetite,fatigue
+Sinusitis,headache,sore_throat,nasal_congestion
+Arthritis,swelling,joint_pain,muscle_pain
+Gastroenteritis,diarrhea,fever,vomiting
+Bronchitis,fatigue,fever,wheezing
+Dengue,fever,rash,joint_pain
+Tonsillitis,sore_throat,headache,fever
+Migraine,headache,sensitivity_to_light,vision_changes
+Appendicitis,nausea,abdominal_pain,vomiting
+Typhoid,fever,rash,abdominal_pain
+Asthma,shortness_of_breath,cough,wheezing
+Hepatitis,dark_urine,abdominal_pain,jaundice
+Urinary Tract Infection,blood_in_urine,abdominal_pain,burning_urination
+Sinusitis,sore_throat,ear_pain,nasal_congestion
+Malaria,chills,nausea,fever
+Sinusitis,runny_nose,ear_pain,nasal_congestion
+Malaria,sweating,fever,chills
+Asthma,shortness_of_breath,chest_tightness,cough
+Gastroenteritis,vomiting,abdominal_pain,nausea
+Arthritis,muscle_pain,swelling,joint_pain
+Malaria,chills,nausea,fever
+Strep Throat,rash,swollen_lymph_nodes,sore_throat
+Diabetes,frequent_urination,increased_thirst,blurred_vision
+Migraine,vision_changes,nausea,sensitivity_to_light
+Tonsillitis,swollen_lymph_nodes,sore_throat,headache
+Flu,fatigue,body_aches,fever
+Strep Throat,swollen_lymph_nodes,sore_throat,fever
+Common Cold,nasal_congestion,sore_throat,runny_nose
+Dengue,joint_pain,fever,headache
+Diabetes,fatigue,blurred_vision,frequent_urination
+Bronchitis,sore_throat,fatigue,wheezing
+Flu,sore_throat,cough,fatigue
+Urinary Tract Infection,frequent_urination,burning_urination,abdominal_pain
+Pneumonia,chest_pain,fever,shortness_of_breath
+Pneumonia,chills,sweating,fever
+Common Cold,cough,runny_nose,sore_throat
+Typhoid,loss_of_appetite,abdominal_pain,fatigue
+Urinary Tract Infection,burning_urination,frequent_urination,blood_in_urine
+Hypertension,high_blood_pressure,dizziness,blurred_vision
+Sinusitis,nasal_congestion,ear_pain,sore_throat
+Diabetes,frequent_urination,fatigue,blurred_vision
+Flu,sore_throat,fatigue,cough
+Bronchitis,fever,fatigue,wheezing
+Gallstones,vomiting,abdominal_pain,nausea
+Bronchitis,cough,chest_pain,wheezing
+Kidney Stones,blood_in_urine,side_pain,nausea
+Sinusitis,headache,ear_pain,nasal_congestion
+Flu,cough,fatigue,headache
+Gallstones,vomiting,abdominal_pain,jaundice
+Common Cold,fever,sneezing,sore_throat
+Pneumonia,sweating,chest_pain,chills
+Typhoid,rash,fatigue,abdominal_pain
+Bronchitis,cough,wheezing,fatigue
+Strep Throat,rash,sore_throat,swollen_lymph_nodes
+Arthritis,fatigue,swelling,muscle_pain
